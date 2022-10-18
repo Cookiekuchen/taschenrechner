@@ -1,5 +1,5 @@
 # taschenrechner
-Simpler Taschenrechner (Addition, Subtraktion, Divison und Multiplikation)
+Simpler Taschenrechner (Addition, Subtraktion, Divison und Multiplikation). Der Taschenrechner wurde mit Hilfe eines Tutorials entwickelt.
 
 
 ## Anleitung Download
